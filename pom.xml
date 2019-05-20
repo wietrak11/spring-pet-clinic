@@ -22,6 +22,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <start-class>com.springframework.springpetclinic.SpringPetClinicApplication</start-class>
     </properties>
 
     <dependencies>
