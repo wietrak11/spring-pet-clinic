@@ -12,7 +12,6 @@
 
     <artifactId>pet-clinic-web</artifactId>
 
-
     <dependencies>
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
@@ -42,5 +41,4 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 </project>
