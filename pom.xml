@@ -46,6 +46,7 @@
         <connection>scm:git:https://github.com/wietrak11/spring-pet-clinic.git</connection>
         <developerConnection>scm:git:https://github.com/wietrak11/spring-pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
+
     </scm>
 
 </project>
